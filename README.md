@@ -2,7 +2,7 @@
 
 ## I'm currently working on an AI Marathon here at Asia Pacific University of Technology & Innovation (APU)
 
-## The problem statement is set to be announced on May 22nd 2026 (Tuesday)
+## The problem statement is set to be announced on May 22nd 2026 (Friday)
 
 <!--
 **dannnial7/dannnial7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
